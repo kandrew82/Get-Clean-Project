@@ -11,9 +11,9 @@ The result of this R script is a new dataset containing the average of some feat
 
 ## Usage
 
-1. Clone the repository and unzip the [UCI HAR Dataset] within your R working directory.
+1. Clone the repository and unzip the *UCI HAR Dataset* within your R working directory.
 
-2. Install the required dplyr package
+2. Install the required *dplyr* package
 
 3. Run the **run_analysis.R** script
 
