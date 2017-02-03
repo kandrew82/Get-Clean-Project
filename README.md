@@ -17,3 +17,5 @@ The result of this R script is a new dataset containing the average of some feat
 
 3. Run the **run_analysis.R** script
 
+4. The file *final.txt* contains the new dataset
+
