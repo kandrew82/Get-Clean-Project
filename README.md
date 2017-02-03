@@ -1,7 +1,7 @@
 # Get-Clean-Project
 Getting and Cleaning Data Course Project
 
-# Description
+## Description
 
 The UCI HAR Dataset represents data collected from the accelerometers from the Samsung Galaxy S smartphone with the following informations:
 - 561 features regarding time and frequency domain variables. 
