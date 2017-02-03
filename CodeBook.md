@@ -11,7 +11,7 @@ The dataset contains the following text file:
 
 ## Cleaning Data
 
-Training set and test set are merged into a single data frame (10.299 observations), then the subject and activity information are added. to which are subsequently added.
+Training set and test set are merged into a single data frame (10.299 observations), then the subject and activity information are added. 
 The feature set is reduced through an appropriate subsetting and variable names are cleaned to make them more readable.
 Finally, through the package *dplyr* the means of the feature selected are summarized and grouped by subject and activity.
 
