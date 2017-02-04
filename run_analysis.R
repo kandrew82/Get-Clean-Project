@@ -36,4 +36,4 @@ names(filtered)<-labels
 
 # Creating a tidy data set with the average of each variable for each activity and each subject
 final<- filtered %>% group_by(Subject,Activity) %>% summarise_each(funs(mean))
-write.table(tidy_data, file="final.txt", row.name=FALSE)
+write.table(final, file="final.txt", row.name=FALSE)
